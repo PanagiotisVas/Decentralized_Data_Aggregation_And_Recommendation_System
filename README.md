@@ -51,7 +51,7 @@ The project is pre-configured to connect to a **MongoDB Atlas Cloud Cluster**. Y
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/GeoZann/Decentralized-Data](https://github.com/GeoZann/Decentralized-Data)
+git clone [https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System](https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System)
 
 # 2. Install Backend Dependencies
 cd backend
@@ -78,7 +78,7 @@ npm start
 
 This project was designed and built as a group assignment for the **Computer Engineering and Informatics Department** of the **University of Patras** .
 
+* **Panagiotis Vasilopoulos**
 * **Georgios Zannis** [GitHub Profile](https://github.com/GeoZann)
 * **Vasileios Zafeiris** [GitHub Profile](https://github.com/vasizaf)
 * **Panagiotis Psaltiras** [GitHub Profile](https://github.com/Pan4g10tis)
-* **Panagiotis Vasilopoulos** [GitHub Profile](https://github.com/PanagiotisVas)
