@@ -51,7 +51,7 @@ The project is pre-configured to connect to a **MongoDB Atlas Cloud Cluster**. Y
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System](https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System)
+git clone [https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System.git](https://github.com/PanagiotisVas/Decentralized_Data_Aggregation_And_Recommendation_System)
 
 # 2. Install Backend Dependencies
 cd backend
